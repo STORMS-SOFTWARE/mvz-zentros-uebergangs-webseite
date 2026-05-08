@@ -1,0 +1,35 @@
+@import "colors";
+@import "responsive-bootstrap-mixins";
+/*
+ * media-breakpoint-only
+ * media-breakpoint-up
+ * media-breakpoint-down
+ * media-breakpoint-between
+
+ down & up do not include the breakpoint itself - so -down(lg) means everything that is md and smaller
+ */
+// ----------
+
+/*
+ * --------------------------------------
+ */
+
+// can typically be considered to be a matching fencing for smartphones
+@include media-breakpoint-down(sm) {
+  // ...
+} 
+
+// can typically be considered to be a matching fencing for tables in portrait mode
+@include media-breakpoint-between(lg, xl) {
+ // ...
+}
+
+// when wanting to write one single style def for both fencing defs without the need of repeating the code
+@mixin smartphone-and-portraittablet() {
+    @include media-breakpoint-down(sm) {
+        @content
+    }
+    @include media-breakpoint-between(lg, xl) {
+        @content
+    }
+}

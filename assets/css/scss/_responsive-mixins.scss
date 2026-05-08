@@ -1,0 +1,36 @@
+@mixin touch-devices {
+    @media (pointer:coarse) {
+        @content;
+    }
+}
+ 
+@mixin smartphone {
+    @media (pointer:coarse) and (max-width: 575.98px) {
+        @content;
+    }
+}
+ 
+@mixin tablet-landscape-portrait {
+    @media (pointer:coarse) and (min-width: 576px) {
+        @content;
+    }
+}
+ 
+@mixin tablet-landscape {
+    @media (pointer:coarse) and (min-width: 576px) and (orientation: landscape) {
+        @content;
+    }
+}
+ 
+@mixin tablet-portrait {
+    @media (pointer:coarse) and (min-width: 576px) and (orientation: portrait) {
+        @content;
+    }
+}
+ 
+/* using these mixins:
+ *
+ * @include smartphone {
+ *   body { color: red; }
+ * }
+*/

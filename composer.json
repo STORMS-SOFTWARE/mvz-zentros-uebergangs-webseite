@@ -1,0 +1,1 @@
+{ "repositories": [ { "type": "vcs", "url": "https://github.com/STORMS-SOFTWARE/webframe.git" } ], "require": { "storms-software/webframe": "dev-master", "php": ">=8.0", "ext-curl": "*", "ext-json": "*" } }

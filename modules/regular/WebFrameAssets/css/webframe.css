@@ -1,0 +1,8 @@
+.last-paragraph-no-margin p:last-of-type {
+  margin-bottom: 0 !important;
+}
+
+/* disable bootstraps css smooth scroll behavior (because it causes page jumping when using js page scroll) */
+html {
+    scroll-behavior: auto !important;
+}
