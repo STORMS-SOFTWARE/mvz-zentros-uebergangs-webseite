@@ -26,7 +26,7 @@
         @md(true)
         Dr. med. Arnd von den Driesch, FA Orthopädie + Unfallchirurgie
         Anja Schmitz FA Orthopädie + Unfallchirurgie
-        Klaus H. Lângler FA Anästhesiologie mit Schwerpunkt spezielle Schmerztherapie, Palliativmedizin und Sportmedizin
+        Klaus H. Lângler FA Anästhesiologie mit Schwerpunkt spezielle Schmerztherapie
         Kassenärztliche Vereinigung Nordrhein in 40474 Düsseldorf
         @endmd
     </div>

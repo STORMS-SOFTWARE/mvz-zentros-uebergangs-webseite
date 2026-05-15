@@ -51,8 +51,7 @@
       **Standort Wegberg**
       Herr Klaus H. Längler,
       Facharzt für Anästhesie (angestellt)
-      Spezielle Schmerztherapie,
-      Akupunktur
+      Spezielle Schmerztherapie, Akupunktur, Palliativmedizin und Sportmedizin
 
       Antoniusweg 4
       41844 Wegberg
