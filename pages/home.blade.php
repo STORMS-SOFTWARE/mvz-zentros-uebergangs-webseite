@@ -15,7 +15,7 @@
       </div>
       <p>
         Liebe Patientinnen und Patienten, <br>
-        Wir freuen uns darauf, Ihnen zukünftig ganzheitliche Traumatologie, Orthopädie und  Schmerzmedizin in völlig neu gedachten Konzepten anbieten zu können.
+        wir freuen uns darauf, Ihnen zukünftig ganzheitliche Traumatologie, Orthopädie und Schmerzmedizin in völlig neu gedachten Konzepten anbieten zu können.
       </p>
       <p>
         Dazu werden unsere Standorte Hückelhoven, Vielhauerweg 1 sowie Wegberg, Antoniusweg 4 voraussichtlich ab dem 4. Quartal an einem gemeinsamen und hochmodernen Standort zusammengeführt werden.
